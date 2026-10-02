@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Citizenship Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" href="/style.css">
+  </head>
+
+  <body>
+    <head>
+    <title>Citizenship Test</title>
+  
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Citizenship Test</h1>
+    </header>
+    <div class="container">
+
+        <div class="card" id="quizCard">
+            <div class="progress" id="progress">
+                Question 1 of 20
+            </div>
+            <div class="question" id="question">
+            </div>
+            <div class="answers" id="answers">
+            </div>
+            <div class="feedback" id="feedback">
+            </div>
+            <button
+                class="next-btn hidden"
+                id="nextButton">
+                Next Question
+            </button>
+        </div>
+
+        <div class="card hidden" id="resultCard">
+            <div class="score" id="finalScore">
+            </div>
+            <div class="result-message" id="resultMessage">
+            </div>
+            <button
+                class="restart-btn"
+                onclick="startQuiz()">
+                Take Another Test
+            </button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+
+    <script src="/script.js"></script>
+  </body>
+
+</html>
