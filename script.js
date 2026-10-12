@@ -28,7 +28,7 @@ const questionPool = [
             "Forms the government",
         wrong: [
             "Grants unlimited power to the government",
-            "Declares our independance",
+            "Declares our independence",
             "Controls what jobs citizens have"
         ]
     },
@@ -90,7 +90,7 @@ const questionPool = [
     },
   {
         question:
-            "Name two important ideas are from the Declaration of Independance and the Constitution?",
+            "Name two important ideas are from the Declaration of Independence and the Constitution?",
         correct:
             "Equality and Liberty",
         wrong: [
@@ -103,7 +103,7 @@ const questionPool = [
         question:
             "The words 'Life, Liberty, and the pursuit of Happiness' are found in what document?",
         correct:
-            "The Declaration of Independance",
+            "The Declaration of Independence",
         wrong: [
             "Brutus No.1",
             "The Federalist Papers",
@@ -283,7 +283,7 @@ const questionPool = [
         correct:
             "Equal representation",
         wrong: [
-            "Seantors cannot run again",
+            "Senators cannot run again",
             "Senators are elected by Congress",
             "To give larger states more power"
         ]
@@ -525,11 +525,11 @@ const questionPool = [
         question:
             "Why do Supreme Court Justices serve for life?",
         correct:
-            "To be independant of politics",
+            "To be independent of politics",
         wrong: [
             "So they can never be replaced",
             "To give them more power than the President",
-            "So they can inerpret laws for life"
+            "So they can interpret laws for life"
         ]
     },
 {
@@ -551,7 +551,7 @@ const questionPool = [
         wrong: [
             "Mint coins",
             "Create an army",
-            "Set foriegn policy"
+            "Set foreign policy"
         ]
     },
 {
@@ -618,7 +618,7 @@ const questionPool = [
         wrong: [
             "Become a member of the military and serve for life",
             "Vote in every election and hold public office",
-            "Pay no taxes and recieve government benefits"
+            "Pay no taxes and receive government benefits"
         ]
     },
 {
@@ -675,7 +675,7 @@ const questionPool = [
         wrong: [
             "It guarantees a job in the military",
             "It allows you to vote in federal elections",
-            "It makes you elligible to run for office"
+            "It makes you eligible to run for office"
         ]
     },
 {
@@ -692,7 +692,7 @@ const questionPool = [
   
 {
         question:
-            "Who lived in America before the Europeans arrives?",
+            "Who lived in America before the Europeans arrived?",
         correct:
             "Native Americans",
         wrong: [
@@ -738,7 +738,7 @@ const questionPool = [
     },
 {
         question:
-            "Who wrote the Declaration of Independance?",
+            "Who wrote the Declaration of Independence?",
         correct:
             "Thomas Jefferson",
         wrong: [
@@ -854,7 +854,7 @@ const questionPool = [
         correct:
             "Father of the Constitution",
         wrong: [
-            "Helped write the Declaration of Independance",
+            "Helped write the Declaration of Independence",
             "Wrote the Anti-Federalist Papers",
             "President during the Revolutionary War"
         ]
@@ -927,7 +927,7 @@ const questionPool = [
     },
   {
         question:
-            "What did the Empancipation Proclamation do?",
+            "What did the Emancipation Proclamation do?",
         correct:
             "Freed the slaves in the Confederacy",
         wrong: [
@@ -1248,7 +1248,7 @@ const questionPool = [
     },
 {
         question:
-            "The Nation's firt motto was 'E Pluribus Unum'. What does this mean?",
+            "The Nation's first motto was 'E Pluribus Unum'. What does this mean?",
         correct:
             "Out of many, one",
         wrong: [
